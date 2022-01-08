@@ -1,0 +1,3057 @@
+@media(min-width: 320px) and (max-width: 575px){
+  nav img{
+    width: 90%;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+nav button i{
+    color: #000;
+      margin-top: 45px;
+      font-size: 37px;
+}
+
+nav ul li a::after {
+    display: none;
+}
+
+nav ul {
+  margin-left: 0;
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	padding-top: 35px;
+}
+
+#banner-part {
+	padding: 75px 0;
+	padding-bottom: 145px;
+}
+
+#banner-part h1 {
+	font-size: 36px;
+  text-align: center;
+}
+
+#banner-part h2 {
+	font-size: 40px;
+  text-align: center;
+}
+
+#banner-part p {
+	font-size: 16px;
+	width: auto;
+	text-align: center;
+}
+
+#form-part input {
+	width: 90%;
+	margin: 10px 15px;
+}
+
+#form-part .btn1 {
+	margin-top: 25px;
+	text-align: center;
+  margin-left: 0;
+}
+
+#form-part .btn1 a {
+	font-size: 21px;
+	padding: 14px 36px;
+}
+
+#categories-part .title h2 {
+	font-size: 30px;
+}
+
+#categories-part {
+	padding: 60px 0;
+}
+
+#categories-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#categories-part .item {
+	height: 260px;
+	width: 260px;
+  margin: 10px auto;
+}
+
+#categories-part .item .img img {
+	margin-top: 32px;
+}
+
+#work-part .title h2 {
+	font-size: 30px;
+}
+
+#work-part {
+	padding: 60px 0;
+}
+
+#work-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#work-part .item h3 {
+	font-size: 24px;
+}
+
+#work-part .item p {
+	font-size: 16px;
+	margin-top: 14px;
+}
+
+#work-part .item {
+	margin-top: 50px;
+}
+
+#work-part .item-1::after {
+	display: none;
+}
+
+#work-part .item-1::before {
+	display: none;
+}
+
+#job-part .title h2 {
+	font-size: 30px;
+}
+
+#job-part {
+	padding: 60px 0;
+}
+
+#job-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#job-part #input1 {
+	width: 90%;
+  margin-top: 30px;
+}
+
+#job-part .btn1 {
+	margin-left: 0;
+	text-align: center;
+  margin-top: 40px;
+}
+
+#job-part .main{
+	display: none;
+}
+
+#job-part .information-bg{
+	text-align: center;
+}
+
+#job-part .heading .txt {
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#job-part .location h4 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+#job-part .price h4 {
+	margin-top: 3px;
+}
+
+#job-part .btn {
+	margin-top: 22px;
+	margin-left: 0;
+	padding-bottom: 30px;
+}
+
+#job-part .btn01 a {
+	font-size: 19px;
+}
+
+#job-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#job-part .left-site {
+	margin-top: 30px;
+}
+
+#card-part .left h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .left {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .left p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part .right h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .right {
+	padding: 20px;
+	width: 100%;
+	margin-top: 20px;
+}
+
+#card-part .right p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part {
+	padding-bottom: 60px;
+}
+
+#worker-part {
+	padding: 60px 0;
+}
+
+#worker-part .title h2 {
+	font-size: 30px;
+}
+
+#worker-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#worker-part .item {
+	padding: 0px 18px;
+	margin-top: 40px;
+	padding-top: 22px;
+}
+
+#worker-part .item .round .img .number {
+	left: 174px;
+}
+
+#worker-part .item .round h2 {
+	margin-top: -15px;
+}
+
+#worker-part .item .txt1 h5 {
+	margin-top: -33px;
+}
+
+#worker-part .item::after {
+	margin-top: 31px;
+}
+
+#worker-part .btn02 i {
+	display: none;
+}
+
+#worker-part .item .txt1 {
+	margin-top: 17px;
+	padding-bottom: 17px;
+}
+
+#worker-part .left-site {
+	margin-top: 30px;
+}
+
+#worker-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+	margin-left: 0;
+}
+
+#worker-part .btn01 a {
+	font-size: 19px;
+}
+
+#video-part {
+	padding: 49px 0;
+}
+
+#video-part .txt {
+	margin-top: 33px;
+	text-align: center;
+}
+
+#milestone-part {
+	padding: 30px 0;
+}
+#milestone-part .title h2 {
+	font-size: 30px;
+}
+
+#milestone-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#milestone-part .counter-part::before {
+	display: none;
+}
+
+#milestone-part .counter-part::after {
+	display: none;
+}
+
+#milestone-part .counter-part {
+	text-align: center;
+	margin-right: 0px;
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part .mt{
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part h2 {
+	font-size: 45px;
+}
+
+#milestone-part .img {
+	margin-bottom: 30px;
+	margin-right: 0;
+	text-align: center;
+}
+
+#milestone-part .img img {
+	width: 85%;
+}
+
+footer {
+	padding-top: 50px;
+	padding-bottom: 1px;
+}
+
+footer .title01 {
+	margin-top: 30px;
+}
+
+footer .about-txt p {
+	margin-right: 0;
+	padding-top: 0px;
+}
+
+footer .sub-btn {
+	margin-top: 39px;
+	margin-left: 0;
+	
+	font-size: 20px;
+}
+
+#job-part .btn01 {
+	margin-top: 20px;
+	margin-left: 25px;
+}
+
+#job-part .btn01 h3 {
+	height: 43px;
+	width: 43px;
+	line-height: 42px;
+	font-size: 24px;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#milestone-part .counter-part .mt20 {
+	margin-top: 25px;
+}
+
+#milestone-part .counter-part h2 {
+	margin-top: 25px;
+}
+
+#video-part .slick-dots {
+	margin-left: 0;
+	text-align: center;
+	margin-top: -19px;
+}
+
+.job-btn .job-apply {
+	font-size: 16px;
+	padding: 15px 15px;
+}
+
+.job-btn .job-fav {
+	font-size: 16px;
+	padding: 15px 11px;
+}
+
+#details-part .infrm01 {
+	margin-left: 7px;
+}
+
+#details-part .main .clone {
+	margin-left: 14px;
+}
+
+#details-part .main .clone1 {
+	margin-left: 30px;
+}
+
+#details-part .share {
+	padding-right: 0;
+	margin: 0px 0;
+	margin-top: 35px;
+}
+
+#details-part .infrm .icon01 {
+	margin-top: -30px;
+	margin-left: 45px;
+}
+
+#details-part .img1 img {
+	margin-left: -18px;
+}
+
+#job-part .title01 h2 {
+	text-align: center;
+}
+
+#employer-part {
+	padding: 50px 0;
+}
+
+#employer-part .main .img .number {
+	right: -151px;
+}
+
+#employer-part .main .img {
+	margin-left: 20px;
+}
+
+#employer-part .main .text {
+	margin-top: 275px;
+	margin-left: -125px;
+}
+
+#employer-part .employer-btn .color {
+	padding: 14px 20px;
+}
+
+#employer-part .employer-btn .color-none {
+	padding: 13px 20px;
+}
+
+#employer-part .nav01{
+	display: none;
+}
+
+#employer-part .text p {
+	margin: 20px 0;
+}
+
+#employer-part .left-text .text ul .mt1 {
+	font-size: 16px;
+}
+
+#employer-part .left-text .text .item .main {
+	margin-left: 10px;
+}
+
+#employer-part .main01{
+	margin: 150px 0;
+}
+
+#employer-part .left-text .text .item .img01 {
+	width: 90%;
+	margin-top: -145px;
+	text-align: center;
+}
+
+#employer-part .left-text .text .item .img1{
+	margin-top: -145px;
+}
+
+#employer-part .left-text .text .item01 {
+	margin-top: 170px;
+}
+
+#employer-part .left-text .text .text01 {
+	margin-left: 6px;
+	margin-top: 150px;
+}
+
+#employer-part .left-text .text .img02 {
+	margin-top: -140px !important;
+}
+
+#employer-part .left-text .text .text01 h3 {
+	font-size: 19px;
+}
+
+#employer-part .left-text .text .text01 h4 {
+	font-size: 16px;
+	margin-top: 33px;
+}
+
+#employer-part .left-text .text .text01 .icon {
+	top: 24px;
+	right: 182px;
+}
+
+#employer-part .left-text .text .text01 p {
+	font-size: 16px;
+	width: auto;
+}
+
+#employer-part .right-text .share-box h3 {
+	font-size: 20px;
+}
+
+#employer-part .right-text .share-box .icon i {
+	margin: 15px 14px;
+}
+
+#employer-part .right-text .contact-box .button a {
+	padding: 17px 99px;
+}
+
+#employer-part .right-text .contact-box input {
+	width: auto;
+	margin: 15px 20px;
+}
+
+#worker-part .sideber li .can {
+	margin-left: 45px;
+}
+
+#worker-part .sideber li .can1 {
+	margin-left: 8px;
+}
+
+#worker-part .sideber li .can2 {
+	margin-left: 22px;
+}
+
+#worker-part .sideber li .can3 {
+	margin-left: 90px;
+}
+
+#worker-part .sideber .range {
+	width: auto;
+}
+
+#worker-part .sideber .skill-top {
+	margin-top: 40px;
+}
+
+#worker-part .sideber .can01 {
+	margin-left: 63px;
+}
+#worker-part .sideber .can02 {
+	margin-left: 47px;
+}
+#worker-part .sideber .can03 {
+	margin-left: 24px;
+}
+#worker-part .sideber .can04 {
+	margin-left: 56px;
+}
+#worker-part .sideber .can05 {
+	margin-left: 14px;
+}
+#worker-part .sideber .can06 {
+	margin-left: 50px;
+}
+#worker-part .sideber .can07 {
+	margin-left: 82px;
+}
+#worker-part .sideber .thn{
+	display: none;
+}
+#worker-part .sideber .cn01 {
+	margin-left: 18px;
+}
+#worker-part .sideber .cn02 {
+	margin-left: 64px;
+}
+#worker-part .sideber .cn03 {
+	margin-left: 53px;
+}
+#worker-part .sideber .cn04 {
+	margin-left: 53px;
+}#worker-part .sideber .cn05 {
+	margin-left: 53px;
+}
+#worker-part .sideber .cn06 {
+	margin-left: 42px;
+}
+#worker-part .sideber .cn07 {
+	margin-left: 94px;
+}
+
+#contact-part {
+	padding: 70px 0;
+}
+
+#contact-part .icon i {
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	font-size: 23px;
+	margin-bottom: 20px;
+}
+
+#contact-part .text ul li {
+	font-size: 15px;
+	margin-bottom: 40px;
+	margin-left: 35px;
+	margin-top: -17px;
+}
+
+#contact-part .icon {
+	top: -5px;
+}
+
+#contact-part #input1 {
+	margin-top: 0px;
+}
+
+#contact-part .msg-part {
+	margin-top: 10px;
+}
+
+#contact-part .button a {
+	font-size: 25px;
+	padding: 20px 108px;
+}
+
+#contact-part .button{
+	text-align: center;
+}
+
+#img .img h2 {
+	font-size: 28px;
+	top: -75px;
+}
+/* =====================
+        End part
+   =====================*/
+}
+
+@media(min-width: 392px) and (max-width: 401px){
+	#contact-part .text ul li {
+		margin-bottom: 46px;
+	}
+}
+@media(min-width: 402px) and (max-width: 575px){
+	#contact-part .text ul li {
+		margin-bottom: 56px;
+	}
+}
+
+
+@media(min-width: 576px) and (max-width: 767px){
+  nav img{
+    width: 90%;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+nav button i{
+    color: #000;
+      margin-top: 45px;
+      font-size: 37px;
+}
+
+nav ul li a::after {
+    display: none;
+}
+
+nav ul {
+  margin-left: 0;
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	padding-top: 35px;
+}
+
+#banner-part {
+	padding: 75px 0;
+	padding-bottom: 145px;
+}
+
+#banner-part h1 {
+	font-size: 36px;
+  text-align: center;
+}
+
+#banner-part h2 {
+	font-size: 40px;
+  text-align: center;
+}
+
+#banner-part p {
+	font-size: 16px;
+	width: auto;
+	text-align: center;
+}
+
+#form-part input {
+	width: 90%;
+	margin: 10px 15px;
+}
+
+#form-part .btn1 {
+	margin-top: 25px;
+	text-align: center;
+  margin-left: 0;
+}
+
+#form-part .btn1 a {
+	font-size: 21px;
+	padding: 14px 36px;
+}
+
+#categories-part .title h2 {
+	font-size: 30px;
+}
+
+#categories-part {
+	padding: 60px 0;
+}
+
+#categories-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#categories-part .item {
+	height: 260px;
+	width: 260px;
+  margin: 10px auto;
+}
+
+#categories-part .item .img img {
+	margin-top: 32px;
+}
+
+#work-part .title h2 {
+	font-size: 30px;
+}
+
+#work-part {
+	padding: 60px 0;
+}
+
+#work-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#work-part .item h3 {
+	font-size: 24px;
+}
+
+#work-part .item p {
+	font-size: 16px;
+	margin-top: 14px;
+}
+
+#work-part .item {
+	margin-top: 50px;
+}
+
+#work-part .item-1::after {
+	display: none;
+}
+
+#work-part .item-1::before {
+	display: none;
+}
+
+#job-part .title h2 {
+	font-size: 30px;
+}
+
+#job-part {
+	padding: 60px 0;
+}
+
+#job-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#job-part #input1 {
+	width: 90%;
+  margin-top: 30px;
+}
+
+#job-part .btn1 {
+	margin-left: 0;
+	text-align: center;
+  margin-top: 40px;
+}
+
+#job-part .main{
+	display: none;
+}
+
+#job-part .information-bg{
+	text-align: center;
+	width: 48%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+#job-part .heading .txt {
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#job-part .location h4 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+#job-part .price h4 {
+	margin-top: 3px;
+}
+
+#job-part .btn {
+	margin-top: 22px;
+	margin-left: 0;
+	padding-bottom: 30px;
+}
+
+#job-part .btn01 a {
+	font-size: 19px;
+}
+
+#job-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#job-part .left-site {
+	margin-top: 30px;
+}
+
+#card-part .left h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .left {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .left p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part .right h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .right {
+	padding: 20px;
+	width: 100%;
+	margin-top: 20px;
+}
+
+#card-part .right p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part {
+	padding-bottom: 60px;
+}
+
+#worker-part {
+	padding: 60px 0;
+}
+
+#worker-part .title h2 {
+	font-size: 30px;
+}
+
+#worker-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#worker-part .item {
+	padding: 0px 18px;
+	margin-top: 40px;
+	padding-top: 22px;
+}
+
+#worker-part .item .round .img .number {
+	left: 278px;
+}
+
+#worker-part .item .round h2 {
+	margin-top: -15px;
+}
+
+#worker-part .item .txt1 h5 {
+	margin-top: -33px;
+}
+
+#worker-part .item::after {
+	margin-top: 31px;
+}
+
+#worker-part .btn02 i {
+	display: none;
+}
+
+#worker-part .item .txt1 {
+	margin-top: 17px;
+	padding-bottom: 17px;
+}
+
+#worker-part .left-site {
+	margin-top: 30px;
+}
+
+#worker-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+	margin-left: 0;
+}
+
+#worker-part .btn01 a {
+	font-size: 19px;
+}
+
+#video-part {
+	padding: 49px 0;
+}
+
+#video-part .txt {
+	margin-top: 33px;
+	text-align: center;
+}
+
+#milestone-part {
+	padding: 40px 0;
+}
+
+#milestone-part .title h2 {
+	font-size: 30px;
+}
+
+#milestone-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#milestone-part .counter-part::before {
+	display: none;
+}
+
+#milestone-part .counter-part::after {
+	display: none;
+}
+
+#milestone-part .counter-part {
+	text-align: center;
+	margin-right: 0px;
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part .mt{
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part h2 {
+	font-size: 45px;
+}
+
+#milestone-part .img {
+	margin-bottom: 30px;
+	margin-right: 0;
+	text-align: center;
+}
+
+#milestone-part .img img {
+	width: 85%;
+}
+
+footer {
+	padding-top: 50px;
+	padding-bottom: 1px;
+}
+
+footer .title01 {
+	margin-top: 30px;
+}
+
+footer .about-txt p {
+	margin-right: 0;
+	padding-top: 0px;
+}
+
+footer .sub-btn {
+	margin-top: 39px;
+	margin-left: 0;
+	
+	font-size: 20px;
+}
+
+#job-part .btn01 {
+	margin-top: 20px;
+	margin-left: 25px;
+}
+
+#job-part .btn01 h3 {
+	height: 43px;
+	width: 43px;
+	line-height: 42px;
+	font-size: 24px;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#milestone-part .counter-part .mt20 {
+	margin-top: 25px;
+}
+
+#milestone-part .counter-part h2 {
+	margin-top: 25px;
+}
+
+#video-part .item .img i {
+	top: 42px;
+}
+
+#video-part .item .play i {
+	bottom: 32px;
+}
+
+#video-part .item p {
+	padding: 0px 122px;
+	margin-top: -20px;
+}
+
+#video-part .slick-dots {
+	margin-left: 0;
+	text-align: center;
+	margin-top: -19px;
+}
+
+#milestone-part .img img {
+	width: 100%;
+}
+
+footer input {
+	width: 500px;
+}
+
+footer .icon {
+	text-align: center;
+}
+
+#milestone-part .counter-part h3 {
+	font-size: 24px;
+}
+
+#details-part .infrm01 {
+	margin-left: 35px;
+}
+
+#details-part .main .clone {
+	margin-left: 14px;
+}
+
+#details-part .main .clone1 {
+	margin-left: 30px;
+}
+
+#details-part .share {
+	padding-right: 0;
+	margin: 0px 0;
+	margin-top: 35px;
+}
+
+#details-part .infrm .icon01 {
+	margin-top: -30px;
+	margin-left: 45px;
+}
+
+#details-part .img1 img {
+	margin-left: -33px;
+	width: 107%;
+}
+
+#job-part .title01 h2 {
+	text-align: center;
+}
+/* ====== */
+
+#employer-part {
+	padding: 50px 0;
+}
+
+#employer-part .main .img .number {
+	right: -65px;
+}
+
+#employer-part .main .img {
+	margin-left: 20px;
+}
+
+#employer-part .main .text {
+	margin-left: 76px;
+}
+
+#employer-part .employer-btn .color {
+	padding: 14px 20px;
+}
+
+#employer-part .employer-btn .color-none {
+	padding: 13px 20px;
+}
+
+#employer-part .nav01{
+	display: none;
+}
+
+#employer-part .text p {
+	margin: 20px 0;
+}
+
+#employer-part .left-text .text ul .mt1 {
+	font-size: 16px;
+}
+
+#employer-part .left-text .text .text01 p {
+	font-size: 16px;
+	width: auto;
+}
+
+#employer-part .right-text .share-box h3 {
+	font-size: 20px;
+}
+
+#employer-part .right-text .share-box .icon i {
+	margin: 15px 14px;
+}
+
+#employer-part .left-text .text .text01 .icon {
+	top: 26px;
+}
+
+#worker-part .sideber li .can {
+	margin-left: 95px;
+}
+#worker-part .sideber li .can1 {
+	margin-left: 60px;
+}
+#worker-part .sideber li .can2 {
+	margin-left: 75px;
+}
+#worker-part .sideber li .can3 {
+	margin-left: 151px;
+}
+#worker-part .sideber .range {
+	width: auto;
+}
+#worker-part .sideber .skill-top {
+	margin-top: 40px;
+}
+#worker-part .sideber .can01 {
+	margin-left: 93px;
+}
+#worker-part .sideber .can02 {
+	margin-left: 77px;
+}
+#worker-part .sideber .can03 {
+	margin-left: 54px;
+}
+#worker-part .sideber .can04 {
+	margin-left: 86px;
+}
+#worker-part .sideber .can05 {
+	margin-left: 44px;
+}
+#worker-part .sideber .can06 {
+	margin-left: 80px;
+}
+#worker-part .sideber .can07 {
+	margin-left: 112px;
+}
+#worker-part .sideber .thn{
+	display: none;
+}
+#worker-part .sideber .cn01 {
+	margin-left: 58px;
+}
+#worker-part .sideber .cn02 {
+	margin-left: 104px;
+}
+#worker-part .sideber .cn03 {
+	margin-left: 93px;
+}
+#worker-part .sideber .cn04 {
+	margin-left: 93px;
+}#worker-part .sideber .cn05 {
+	margin-left: 93px;
+}
+#worker-part .sideber .cn06 {
+	margin-left: 82px;
+}
+#worker-part .sideber .cn07 {
+	margin-left: 134px;
+}
+
+#contact-part {
+	padding: 70px 0;
+}
+
+#contact-part .icon i {
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	font-size: 23px;
+	margin-bottom: 15px;
+}
+
+#contact-part .text ul li {
+	font-size: 18px;
+	margin-bottom: 44px;
+	margin-left: 35px;
+	margin-top: -17px;
+}
+
+#contact-part .icon {
+	top: -5px;
+}
+
+#contact-part #input1 {
+	margin-top: 0px;
+}
+
+#contact-part .msg-part {
+	margin-top: 10px;
+}
+
+#contact-part .button a {
+	font-size: 25px;
+	padding: 20px 108px;
+}
+
+#contact-part .button{
+	text-align: center;
+}
+
+#img .img h2 {
+	font-size: 39px;
+	top: 102px;
+}
+/* =====================
+        End part
+   =====================*/
+}
+
+
+@media(min-width: 768px) and (max-width: 991px){
+  nav img{
+    width: 90%;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+nav button i{
+    color: #000;
+      margin-top: 45px;
+      font-size: 37px;
+}
+
+nav ul li a::after {
+    display: none;
+}
+
+nav ul {
+  margin-left: 0;
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	padding-top: 35px;
+}
+
+#banner-part {
+	padding: 75px 0;
+	padding-bottom: 145px;
+}
+
+#banner-part h1 {
+	font-size: 36px;
+  text-align: center;
+}
+
+#banner-part h2 {
+	font-size: 40px;
+  text-align: center;
+}
+
+#banner-part p {
+	font-size: 16px;
+	width: auto;
+	text-align: center;
+}
+
+#form-part input {
+	width: 90%;
+	margin: 10px 15px;
+}
+
+#form-part .btn1 {
+	margin-top: 25px;
+	text-align: center;
+  margin-left: 0;
+}
+
+#form-part .btn1 a {
+	font-size: 21px;
+	padding: 14px 36px;
+}
+
+#categories-part .title h2 {
+	font-size: 30px;
+}
+
+#categories-part {
+	padding: 60px 0;
+}
+
+#categories-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#categories-part .item {
+	height: 260px;
+	width: auto;
+  margin: 10px auto;
+}
+
+#categories-part .item .img img {
+	margin-top: 32px;
+}
+
+#work-part .title h2 {
+	font-size: 30px;
+}
+
+#work-part {
+	padding: 60px 0;
+}
+
+#work-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#work-part .item h3 {
+	font-size: 24px;
+}
+
+#work-part .item p {
+	font-size: 14px;
+	margin-top: 14px;
+	width: 334px;
+	margin: 0 auto;
+}
+
+#work-part .item {
+	margin-top: 50px;
+}
+
+#work-part .item-1::after {
+	display: none;
+}
+
+#work-part .item-1::before {
+	display: none;
+}
+
+#job-part .title h2 {
+	font-size: 30px;
+}
+
+#job-part {
+	padding: 60px 0;
+}
+
+#job-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#job-part #input1 {
+	width: 90%;
+  margin-top: 30px;
+}
+
+#job-part .btn1 {
+	margin-left: 0;
+	text-align: center;
+  margin-top: 40px;
+}
+
+#job-part .main{
+	display: none;
+}
+
+#job-part .information-bg{
+	text-align: center;
+	width: 48%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+#job-part .heading .txt {
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#job-part .location h4 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+#job-part .price h4 {
+	margin-top: 3px;
+}
+
+#job-part .btn {
+	margin-top: 22px;
+	margin-left: 0;
+	padding-bottom: 30px;
+}
+
+#job-part .btn01 a {
+	font-size: 19px;
+}
+
+#job-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#job-part .left-site {
+	margin-top: 30px;
+}
+
+#card-part .left h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .left {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .left p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part .right h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .right {
+	padding: 20px;
+	width: 100%;
+	margin-top: 20px;
+}
+
+#card-part .right p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part {
+	padding-bottom: 60px;
+}
+
+#worker-part {
+	padding: 60px 0;
+}
+
+#worker-part .title h2 {
+	font-size: 30px;
+}
+
+#worker-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#worker-part .item {
+	padding: 0px 18px;
+	margin-top: 40px;
+	padding-top: 22px;
+}
+
+#worker-part .item .round .img .number {
+	left: 195px;
+}
+
+#worker-part .item .round h2 {
+	margin-top: -15px;
+}
+
+#worker-part .item .txt1 h5 {
+	margin-top: -33px;
+}
+
+#worker-part .item::after {
+	margin-top: 31px;
+}
+
+#worker-part .btn02 i {
+	display: none;
+}
+
+#worker-part .item .txt1 {
+	margin-top: 17px;
+	padding-bottom: 17px;
+}
+
+#worker-part .left-site {
+	margin-top: 30px;
+}
+
+#worker-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+	margin-left: 0;
+}
+
+#worker-part .btn01 a {
+	font-size: 19px;
+}
+
+#video-part {
+	padding: 49px 0;
+}
+
+#video-part .txt {
+	margin-top: 109px;
+	text-align: center;
+}
+
+#milestone-part {
+	padding: 30px 0;
+}
+
+#milestone-part .title h2 {
+	font-size: 30px;
+}
+
+#milestone-part .title p {
+	font-size: 16px;
+	width: auto;
+}
+
+#milestone-part .counter-part::before {
+	display: none;
+}
+
+#milestone-part .counter-part::after {
+	display: none;
+}
+
+#milestone-part .counter-part {
+	text-align: center;
+	margin-right: 0px;
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part .mt{
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part h2 {
+	font-size: 45px;
+}
+
+#milestone-part .img {
+	margin-bottom: 30px;
+	margin-right: 0;
+	text-align: center;
+}
+
+#milestone-part .img img {
+	width: 85%;
+}
+
+footer {
+	padding-top: 50px;
+	padding-bottom: 1px;
+}
+
+footer .title01 {
+	margin-top: 30px;
+}
+
+footer .about-txt p {
+	margin-right: 0;
+	padding-top: 0px;
+}
+
+footer .sub-btn {
+	margin-left: 60%;
+}
+
+#job-part .btn01 {
+	margin-top: 20px;
+	margin-left: 25px;
+}
+
+#job-part .btn01 h3 {
+	height: 43px;
+	width: 43px;
+	line-height: 42px;
+	font-size: 24px;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#milestone-part .counter-part .mt20 {
+	margin-top: 25px;
+}
+
+#milestone-part .counter-part h2 {
+	margin-top: 25px;
+}
+
+#video-part .item .img i {
+	top: 42px;
+}
+
+#video-part .item .play i {
+	bottom: 32px;
+}
+
+#video-part .item p {
+	margin-top: -20px;
+}
+
+#video-part .slick-dots {
+	margin-left: 0;
+	text-align: center;
+	margin-top: -19px;
+}
+
+#milestone-part .img img {
+	width: 100%;
+}
+
+footer input {
+	width: 380px;
+}
+
+footer .icon {
+	text-align: center;
+}
+
+#milestone-part .counter-part h3 {
+	font-size: 24px;
+}
+
+#categories-part .item h4 {
+	font-size: 22px;
+}
+
+
+#details-part .infrm01 {
+	margin-left: 35px;
+}
+
+#details-part .main .clone {
+	margin-left: 14px;
+}
+
+#details-part .main .clone1 {
+	margin-left: 30px;
+}
+
+#details-part .share {
+	padding-right: 0;
+	margin: 0px 0;
+	margin-top: 35px;
+}
+
+#details-part .infrm .icon01 {
+	margin-top: -30px;
+	margin-left: 45px;
+}
+
+#details-part .img1 img {
+	margin-left: -33px;
+	width: 107%;
+}
+
+#job-part .title01 h2 {
+	text-align: center;
+}
+
+/* ====== */
+
+#employer-part {
+	padding: 50px 0;
+}
+
+#employer-part .main .img .number {
+	right: -65px;
+}
+
+#employer-part .main .img {
+	margin-left: 20px;
+}
+
+#employer-part .main .text {
+	margin-left: 76px;
+}
+
+#employer-part .employer-btn .color {
+	padding: 14px 20px;
+}
+
+#employer-part .employer-btn .color-none {
+	padding: 13px 20px;
+}
+
+#employer-part .nav01{
+	display: none;
+}
+
+#employer-part .text p {
+	margin: 20px 0;
+}
+
+#employer-part .left-text .text ul .mt1 {
+	font-size: 16px;
+}
+
+#employer-part .left-text .text .text01 p {
+	font-size: 16px;
+	width: auto;
+}
+
+#employer-part .right-text .share-box h3 {
+	font-size: 20px;
+}
+
+#employer-part .right-text .share-box .icon i {
+	margin: 15px 14px;
+}
+
+#employer-part .left-text .text .text01 .icon {
+	top: 26px;
+}
+
+
+#worker-part .sideber li .can {
+	margin-left: 95px;
+}
+#worker-part .sideber li .can1 {
+	margin-left: 60px;
+}
+#worker-part .sideber li .can2 {
+	margin-left: 75px;
+}
+#worker-part .sideber li .can3 {
+	margin-left: 151px;
+}
+#worker-part .sideber .range {
+	width: auto;
+}
+#worker-part .sideber .skill-top {
+	margin-top: 40px;
+}
+#worker-part .sideber .can01 {
+	margin-left: 93px;
+}
+#worker-part .sideber .can02 {
+	margin-left: 77px;
+}
+#worker-part .sideber .can03 {
+	margin-left: 54px;
+}
+#worker-part .sideber .can04 {
+	margin-left: 86px;
+}
+#worker-part .sideber .can05 {
+	margin-left: 44px;
+}
+#worker-part .sideber .can06 {
+	margin-left: 80px;
+}
+#worker-part .sideber .can07 {
+	margin-left: 112px;
+}
+#worker-part .sideber .thn{
+	display: none;
+}
+#worker-part .sideber .cn01 {
+	margin-left: 58px;
+}
+#worker-part .sideber .cn02 {
+	margin-left: 104px;
+}
+#worker-part .sideber .cn03 {
+	margin-left: 93px;
+}
+#worker-part .sideber .cn04 {
+	margin-left: 93px;
+}#worker-part .sideber .cn05 {
+	margin-left: 93px;
+}
+#worker-part .sideber .cn06 {
+	margin-left: 82px;
+}
+#worker-part .sideber .cn07 {
+	margin-left: 134px;
+}
+
+#contact-part .button a {
+	padding: 20px 160px;
+}
+
+#contact-part .button{
+	text-align: center;
+}
+
+#img .img h2 {
+	font-size: 52px;
+	top: 130px;
+}
+/* =====================
+        End part
+   =====================*/
+}
+
+
+
+@media(min-width: 992px) and (max-width: 1199px){
+  nav img{
+    width: 90%;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+nav button i{
+    color: #000;
+      margin-top: 45px;
+      font-size: 37px;
+}
+
+nav ul li a::after {
+    display: none;
+}
+
+nav ul {
+  margin-left: 0;
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	padding-top: 35px;
+}
+
+#banner-part {
+	padding: 75px 0;
+	padding-bottom: 145px;
+}
+
+#banner-part h1 {
+	font-size: 60px;
+  text-align: center;
+}
+
+#banner-part h2 {
+	font-size: 55px;
+  text-align: center;
+}
+
+#banner-part p {
+	font-size: 16px;
+	width: 610px;
+	text-align: center;
+	margin: 0px auto;
+	margin-top: 25px;
+}
+
+#form-part input {
+	width: 90%;
+	margin: 10px 15px;
+}
+
+#form-part .btn1 {
+	margin-top: 25px;
+	text-align: center;
+  margin-left: 0;
+}
+
+#form-part .btn1 a {
+	font-size: 21px;
+	padding: 14px 36px;
+}
+
+#categories-part .title h2 {
+	font-size: 30px;
+}
+
+#categories-part {
+	padding: 60px 0;
+}
+
+#categories-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#categories-part .item {
+	height: 260px;
+	width: auto;
+  margin: 10px auto;
+}
+
+#categories-part .item .img img {
+	margin-top: 32px;
+}
+
+#work-part .title h2 {
+	font-size: 30px;
+}
+
+#work-part {
+	padding: 60px 0;
+}
+
+#work-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#work-part .item h3 {
+	font-size: 24px;
+}
+
+#work-part .item p {
+	font-size: 14px;
+	margin-top: 14px;
+	width: 280px;
+	margin: 0 auto;
+}
+
+#work-part .item {
+	margin-top: 50px;
+}
+
+#work-part .item-1::after {
+	display: none;
+}
+
+#work-part .item-1::before {
+	display: none;
+}
+
+#job-part .title h2 {
+	font-size: 30px;
+}
+
+#job-part {
+	padding: 60px 0;
+}
+
+#job-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#job-part #input1 {
+	width: 90%;
+  margin-top: 30px;
+	
+}
+
+#job-part .btn1 {
+	margin-left: 0;
+	text-align: center;
+  margin-top: 40px;
+}
+
+#job-part .main{
+	display: none;
+}
+
+#job-part .information-bg .heading{
+	margin-top: 17px;
+	margin-left: 55px;
+}
+
+#job-part .information-bg .location{
+	margin-top: 55px;
+}
+
+#job-part .heading .txt {
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#job-part .location h4 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+#job-part .price h4 {
+	margin-top: 55px;
+	margin-left: -20px;
+}
+
+#job-part .btn {
+	margin-top: 45px;
+	margin-left: 40px;
+	padding-bottom: 30px;
+}
+
+#job-part .btn01 a {
+	font-size: 14px;
+}
+
+#job-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#job-part .left-site {
+	margin-top: 30px;
+}
+
+#card-part .left h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .left {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .left p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part .right h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .right {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .right p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part {
+	padding-bottom: 60px;
+}
+
+#worker-part {
+	padding: 60px 0;
+}
+
+#worker-part .title h2 {
+	font-size: 30px;
+}
+
+#worker-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#worker-part .item {
+	padding: 0px 18px;
+	margin-top: 40px;
+	padding-top: 22px;
+}
+
+#worker-part .item .round .img .number {
+	left: 170px;
+}
+
+#worker-part .item .round h2 {
+	margin-top: -15px;
+}
+
+#worker-part .item .txt1 h5 {
+	margin-top: -33px;
+}
+
+#worker-part .item::after {
+	margin-top: 31px;
+}
+
+#worker-part .btn02 i {
+	display: none;
+}
+
+#worker-part .item .txt1 {
+	margin-top: 17px;
+	padding-bottom: 17px;
+}
+
+#worker-part .left-site {
+	margin-top: 30px;
+}
+
+#worker-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+	margin-left: 0;
+}
+
+#worker-part .btn01 a {
+	font-size: 19px;
+}
+
+#video-part {
+	padding: 49px 0;
+}
+
+#video-part .txt {
+	margin-top: 55px;
+	text-align: center;
+}
+
+#milestone-part {
+	padding: 0px 0;
+}
+
+#milestone-part .title h2 {
+	font-size: 30px;
+}
+
+#milestone-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#milestone-part .counter-part::before {
+	display: none;
+}
+
+#milestone-part .counter-part::after {
+	display: none;
+}
+
+#milestone-part .counter-part {
+	text-align: center;
+	margin-right: 0px;
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part .mt{
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part h2 {
+	font-size: 45px;
+}
+
+#milestone-part .img {
+	margin-bottom: 30px;
+	margin-right: 0;
+	text-align: center;
+}
+
+#milestone-part .img img {
+	width: 85%;
+}
+
+footer {
+	padding-top: 50px;
+}
+
+footer .title01 {
+	margin-top: 30px;
+}
+
+footer .about-txt p {
+	margin-right: 0;
+	padding-top: 0px;
+}
+
+footer .sub-btn {
+	margin-left: 0;
+	margin-top: 25px;
+}
+
+
+
+#job-part .btn01 h3 {
+	height: 43px;
+	width: 43px;
+	line-height: 42px;
+	font-size: 24px;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#milestone-part .counter-part .mt20 {
+	margin-top: 25px;
+}
+
+#milestone-part .counter-part h2 {
+	margin-top: 25px;
+}
+
+#video-part .item .img i {
+	top: 42px;
+}
+
+#video-part .item .play i {
+	bottom: 32px;
+}
+
+#video-part .item p {
+	margin-top: -20px;
+}
+
+#video-part .slick-dots {
+	margin-left: 0;
+	text-align: center;
+	margin-top: -19px;
+}
+
+#milestone-part .img img {
+	width: 100%;
+}
+
+footer input {
+	width: 310px;
+	margin-top: -5px;
+}
+
+footer .icon {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: -30px;
+}
+
+#milestone-part .counter-part h3 {
+	font-size: 24px;
+}
+
+#categories-part .item h4 {
+	font-size: 22px;
+}
+
+nav .btn a {
+	font-size: 15px;
+	padding: 12px 25px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	margin: 0px 6px;
+	font-size: 18px;
+	padding-top: 60px;
+}
+
+footer ul li a {
+	position: static;
+}
+
+footer .dot {
+	display: none;
+}
+
+footer ul li:hover .none {
+	display: none;
+}
+
+footer .copyright1 {
+	padding-top: 29px;
+}
+
+#details-part .infrm .icon01 {
+	margin-top: 30px;
+	margin-left: -79px;
+}
+
+#details-part .share {
+	display: none;
+}
+
+.job-btn .job-apply {
+	font-size: 16px;
+	padding: 14px 13px;
+}
+
+.job-btn .job-fav {
+	font-size: 16px;
+	padding: 14px 13px;
+}
+
+#details-part .infrm01 {
+	margin-left: 20px;
+}
+
+#details-part .infrm01 li {
+	font-size: 15px;
+}
+
+#details-part .main .discribe {
+	margin-left: 20px;
+}
+
+#details-part .img1 img {
+	margin-left: -23.1px;
+}
+
+#employer-part .main .text {
+	margin-left: 41px;
+}
+
+#employer-part .employer-btn .color {
+	padding: 14px 17px;
+}
+
+#employer-part .employer-btn .color-none {
+	padding: 13px 25px;
+}
+
+#employer-part .right-text .share-box .icon i {
+	margin: 15px 13px;
+}
+
+#employer-part .right-text .contact-box .button a {
+	padding: 17px 108px;
+}
+
+/* #employer-part .left-text .text .item .main .clone1 {
+	margin-left: 2px;
+}
+
+#employer-part .left-text .text .item .main {
+	margin-left: 129px;
+}
+
+#employer-part .main .discribe {
+	margin-left: 4px;
+}
+
+#employer-part .left-text .text .item .img01 img {
+	width: 90px;
+	height: 90px;
+}
+
+#employer-part .left-text .text .item .img01 {
+	margin-top: 25px;
+} */
+
+#employer-part .left-text .text .item .main {
+	margin-left: 0px;
+}
+
+#employer-part .left-text .text .item {
+	margin-top: 150px;
+}
+
+#employer-part .left-text .text .item .img01 {
+	margin-top: -134px;
+	margin-left: 60px;
+}
+
+#employer-part .left-text .text .item02 .img01 {
+	margin-left: 11px;
+}
+
+#employer-part .main .img .number {
+	right: -35px;
+}
+
+
+#worker-part .sideber li .can {
+	margin-left: 55px;
+}
+#worker-part .sideber li .can1 {
+	margin-left: 20px;
+}
+#worker-part .sideber li .can2 {
+	margin-left: 29px;
+}
+#worker-part .sideber li .can3 {
+	margin-left: 94px;
+}
+#worker-part .sideber .range {
+	width: auto;
+}
+#worker-part .sideber .skill-top {
+	margin-top: 40px;
+}
+#worker-part .sideber .can01 {
+	margin-left: 63px;
+}
+#worker-part .sideber .can02 {
+	margin-left: 47px;
+}
+#worker-part .sideber .can03 {
+	margin-left: 24px;
+}
+#worker-part .sideber .can04 {
+	margin-left: 56px;
+}
+#worker-part .sideber .can05 {
+	margin-left: 14px;
+}
+#worker-part .sideber .can06 {
+	margin-left: 50px;
+}
+#worker-part .sideber .can07 {
+	margin-left: 82px;
+}
+#worker-part .sideber .thn{
+	display: none;
+}
+#worker-part .sideber .cn01 {
+	margin-left: 20px;
+}
+#worker-part .sideber .cn02 {
+	margin-left: 67px;
+}
+#worker-part .sideber .cn03 {
+	margin-left: 53px;
+}
+#worker-part .sideber .cn04 {
+	margin-left: 53px;
+}#worker-part .sideber .cn05 {
+	margin-left: 53px;
+}
+#worker-part .sideber .cn06 {
+	margin-left: 42px;
+}
+#worker-part .sideber .cn07 {
+	margin-left: 94px;
+}
+
+#contact-part .text ul li {
+	margin-bottom: 47px;
+}
+
+#contact-part .button a {
+	padding: 20px 226px;
+}
+
+#img .img h2 {
+	top: 186px;
+}
+/* =====================
+        End part
+   =====================*/
+}
+
+@media(min-width:1200px) and (max-width: 1399px) {
+
+	nav img{
+    width: 90%;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+nav button i{
+    color: #000;
+      margin-top: 45px;
+      font-size: 37px;
+}
+
+nav ul li a::after {
+    display: none;
+}
+
+nav ul {
+  margin-left: 0;
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	padding-top: 35px;
+}
+
+#banner-part {
+	padding: 75px 0;
+	padding-bottom: 145px;
+}
+
+#banner-part h1 {
+	font-size: 60px;
+  text-align: center;
+}
+
+#banner-part h2 {
+	font-size: 55px;
+  text-align: center;
+}
+
+#banner-part p {
+	font-size: 16px;
+	width: 610px;
+	text-align: center;
+	margin: 0px auto;
+	margin-top: 25px;
+}
+
+#form-part input {
+	width: 90%;
+	margin: 10px 15px;
+}
+
+#form-part .btn1 {
+	margin-top: 25px;
+	text-align: center;
+  margin-left: 0;
+}
+
+#form-part .btn1 a {
+	font-size: 21px;
+	padding: 14px 36px;
+}
+
+#categories-part .title h2 {
+	font-size: 30px;
+}
+
+#categories-part {
+	padding: 60px 0;
+}
+
+#categories-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#categories-part .item {
+	height: 260px;
+	width: auto;
+  margin: 10px auto;
+}
+
+#categories-part .item .img img {
+	margin-top: 32px;
+}
+
+#work-part .title h2 {
+	font-size: 30px;
+}
+
+#work-part {
+	padding: 60px 0;
+}
+
+#work-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#work-part .item h3 {
+	font-size: 24px;
+}
+
+#work-part .item p {
+	font-size: 14px;
+	margin-top: 14px;
+	width: 280px;
+	margin: 0 auto;
+}
+
+#work-part .item {
+	margin-top: 50px;
+}
+
+#work-part .item-1::after {
+	display: none;
+}
+
+#work-part .item-1::before {
+	display: none;
+}
+
+#job-part .title h2 {
+	font-size: 30px;
+}
+
+#job-part {
+	padding: 60px 0;
+}
+
+#job-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#job-part #input1 {
+	width: 90%;
+  margin-top: 30px;
+	
+}
+
+#job-part .btn1 {
+	margin-left: 0;
+	text-align: center;
+  margin-top: 40px;
+}
+
+#job-part .main{
+	display: none;
+}
+
+#job-part .information-bg .heading{
+	margin-top: 17px;
+	margin-left: 55px;
+}
+
+#job-part .information-bg .location{
+	margin-top: 55px;
+}
+
+#job-part .heading .txt {
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#job-part .location h4 {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+#job-part .price h4 {
+	margin-top: 55px;
+	margin-left: -20px;
+}
+
+#job-part .btn {
+	margin-top: 45px;
+	margin-left: 40px;
+	padding-bottom: 30px;
+}
+
+#job-part .btn01 a {
+	font-size: 19px;
+}
+
+#job-part .btn01 {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#job-part .left-site {
+	margin-top: 30px;
+}
+
+#card-part .left h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .left {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .left p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part .right h4 {
+	font-size: 14px;
+	margin-top: -2px;
+}
+
+#card-part .right {
+	padding: 20px;
+	width: 100%;
+}
+
+#card-part .right p {
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+#card-part {
+	padding-bottom: 60px;
+}
+
+#worker-part {
+	padding: 60px 0;
+}
+
+#worker-part .title h2 {
+	font-size: 30px;
+}
+
+#worker-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#worker-part .item {
+	padding: 0px 18px;
+	margin-top: 40px;
+	padding-top: 22px;
+}
+
+#worker-part .item .round .img .number {
+	left: 200px;
+}
+
+#worker-part .item .round h2 {
+	margin-top: -15px;
+}
+
+#worker-part .item .txt1 h5 {
+	margin-top: -33px;
+}
+
+#worker-part .item::after {
+	margin-top: 31px;
+}
+
+#worker-part .btn02 i {
+	display: none;
+}
+
+#worker-part .item .txt1 {
+	margin-top: 17px;
+	padding-bottom: 17px;
+}
+
+#worker-part .left-site {
+	margin-top: 30px;
+}
+
+#worker-part .btn01 {
+	margin-top: 55px;
+	text-align: center;
+	margin-left: 0;
+}
+
+#worker-part .btn01 a {
+	font-size: 19px;
+}
+
+#video-part {
+	padding: 49px 0;
+}
+
+#video-part .txt {
+	margin-top: 55px;
+	text-align: center;
+}
+
+#milestone-part {
+	padding: 0px 0;
+}
+
+#milestone-part .title h2 {
+	font-size: 30px;
+}
+
+#milestone-part .title p {
+	font-size: 16px;
+	width: 565px;
+}
+
+#milestone-part .counter-part::before {
+	display: none;
+}
+
+#milestone-part .counter-part::after {
+	display: none;
+}
+
+#milestone-part .counter-part {
+	text-align: center;
+	margin-right: 0px;
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part .mt{
+	margin-top: 30px;
+}
+
+#milestone-part .counter-part h2 {
+	font-size: 45px;
+}
+
+#milestone-part .img {
+	margin-bottom: 30px;
+	margin-right: 0;
+	text-align: center;
+}
+
+#milestone-part .img img {
+	width: 85%;
+}
+
+footer {
+	padding-top: 50px;
+}
+
+footer .title01 {
+	margin-top: 30px;
+}
+
+footer .about-txt p {
+	margin-right: 0;
+	padding-top: 0px;
+}
+
+footer .sub-btn {
+	margin-left: 0;
+	margin-top: 25px;
+}
+
+#job-part .btn01 {
+	margin-top: 45px;
+	margin-left: -18px;
+}
+
+#job-part .btn01 h3 {
+	height: 43px;
+	width: 43px;
+	line-height: 42px;
+	font-size: 24px;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#milestone-part .counter-part .mt20 {
+	margin-top: 25px;
+}
+
+#milestone-part .counter-part h2 {
+	margin-top: 25px;
+}
+
+#video-part .item .img i {
+	top: 42px;
+}
+
+#video-part .item .play i {
+	bottom: 32px;
+}
+
+#video-part .item p {
+	margin-top: -20px;
+}
+
+#video-part .slick-dots {
+	margin-left: 0;
+	text-align: center;
+	margin-top: -19px;
+}
+
+#milestone-part .img img {
+	width: 100%;
+}
+
+footer input {
+	width: 310px;
+	margin-top: -5px;
+}
+
+footer .icon {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: -30px;
+}
+
+#milestone-part .counter-part h3 {
+	font-size: 24px;
+}
+
+#categories-part .item h4 {
+	font-size: 22px;
+}
+
+nav .btn a {
+	font-size: 15px;
+	padding: 12px 25px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	margin: 0px 24px;
+	font-size: 18px;
+	padding-top: 60px;
+}
+footer ul li a {
+	position: static;
+}
+
+footer .dot {
+	display: none;
+}
+
+footer ul li:hover .none {
+	display: none;
+}
+
+footer .copyright1 {
+	padding-top: 29px;
+}
+
+#details-part .infrm .icon01 {
+	margin-left: -25px;
+}
+
+#employer-part .main .img .number {
+	right: 10px;
+}
+
+#employer-part .left-text .text .item .main {
+	margin-left: 0px;
+}
+
+#employer-part .left-text .text .item {
+	margin-top: 150px;
+}
+
+#employer-part .left-text .text .item .img01 {
+	margin-top: -134px;
+	margin-left: 60px;
+}
+
+#employer-part .left-text .text .item02 .img01 {
+	margin-left: 11px;
+}
+
+#employer-part .main .img .number {
+	right: -35px;
+}
+
+#worker-part .sideber li .can {
+	margin-left: 55px;
+}
+#worker-part .sideber li .can1 {
+	margin-left: 20px;
+}
+#worker-part .sideber li .can2 {
+	margin-left: 29px;
+}
+#worker-part .sideber li .can3 {
+	margin-left: 94px;
+}
+#worker-part .sideber .range {
+	width: auto;
+}
+#worker-part .sideber .skill-top {
+	margin-top: 40px;
+}
+#worker-part .sideber .can01 {
+	margin-left: 63px;
+}
+#worker-part .sideber .can02 {
+	margin-left: 47px;
+}
+#worker-part .sideber .can03 {
+	margin-left: 24px;
+}
+#worker-part .sideber .can04 {
+	margin-left: 56px;
+}
+#worker-part .sideber .can05 {
+	margin-left: 14px;
+}
+#worker-part .sideber .can06 {
+	margin-left: 50px;
+}
+#worker-part .sideber .can07 {
+	margin-left: 82px;
+}
+#worker-part .sideber .thn{
+	display: none;
+}
+#worker-part .sideber .cn01 {
+	margin-left: 20px;
+}
+#worker-part .sideber .cn02 {
+	margin-left: 67px;
+}
+#worker-part .sideber .cn03 {
+	margin-left: 53px;
+}
+#worker-part .sideber .cn04 {
+	margin-left: 53px;
+}#worker-part .sideber .cn05 {
+	margin-left: 53px;
+}
+#worker-part .sideber .cn06 {
+	margin-left: 42px;
+}
+#worker-part .sideber .cn07 {
+	margin-left: 94px;
+}
+
+#contact-part .text ul li {
+	margin-bottom: 62px;
+}
+
+#contact-part .button a {
+	padding: 20px 279px;
+}
+
+#img .img h2 {
+	top: 225px;
+}
+/* =====================
+        End part
+   =====================*/
+}
+
+@media(min-width:1401px) and (max-width: 1601px) {
+	footer .sub-btn {
+		margin-left: 280px;
+	}
+}
+
+

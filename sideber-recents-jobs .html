@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Final Project</title>
+
+  <!-- Google Fonts start -->
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;1,600&display=swap" rel="stylesheet">  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lobster+Two:ital@0;1&display=swap" rel="stylesheet"> 
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet"> 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet"> 
+ 
+  <!-- Google Fonts end -->
+  <link rel="stylesheet" href="Css/all.min.css">
+  <link rel="stylesheet" href="Css/bootstrap.min.css">
+  <link rel="stylesheet" href="Css/slick.css">
+  <link rel="stylesheet" href="Css/venobox.css">
+  <link rel="stylesheet" href="Css/style.css">
+  <link rel="stylesheet" href="Css/responsive.css">
+</head>
+<body>
+
+  <!--=====================================
+         Navber part start
+  =========================================-->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="home.html">
+        <img src="images/logo.png" alt="logo">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="home.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="details.html">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sideber-recents-jobs .html">Recent Jobs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sideber-canditates.html">Candidates</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="employer.html">Employers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact </a>
+          </li>
+          <div class="btn">
+            <a href="404-page.html">Signup / Login</a>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </nav>
+<!--=====================================
+         Navber part end
+=========================================-->
+<!--=====================================
+         Job part start
+=========================================-->
+<section id="job-part">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <section class="wrkr-white" id="worker-part">
+          <div class="sideber mt01">
+            <h3>Search keywords</h3>
+            <input class="inpt" type="text" placeholder="Search by name">
+            <h3>Search by location</h3>
+            <input class="inpt" type="text" placeholder="Enter your location">
+            <h3>Search by category</h3>
+            <input class="inpt" type="text" placeholder="Web Design">
+            <h3>Last activity</h3>
+            <ul>
+              <li><input type="checkbox" class="chk01">Last hour <span class="can">07 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Last 24 hours <span class="can1">78 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Last 7 days <span class="can2">708 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">All <span class="can3">7021 Candidates</span></li>
+            </ul>
+          </div>
+          <div class="sideber">
+            <h3>Salary Range</h3>
+            <div class="range">
+              <div class="range01">
+                <div class="dot1"></div>
+                <div class="dot2"></div>
+              </div>
+            </div>
+            <p>100$ <span class="dur">500$</span></p>
+            <h3 class="skill-top skil01">Skill</h3>
+            <ul>
+              <li><input type="checkbox" class="chk01">HTML <span class="can01">365 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Graphic <span class="can02">3652 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Wordpress <span class="can03">1245 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Python <span class="can04">1045 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Premier Pro <span class="can05">1545 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">View all <span class="can06">5045 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">Php <span class="can07">1045 Candidates</span></li>
+            </ul>
+          </div>
+          <div class="sideber">
+
+            <h3 class="ex-top">Experience</h3>
+            <ul>
+              <li><input type="checkbox" class="chk01">Less <span class="thn">than</span> 1 year <span class="cn01">76 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">1 year <span class="cn02">568 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">2 years <span class="cn03">3652 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">3 years <span class="cn04">4652 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">4 years <span class="cn05">3658 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">4+ years <span class="cn06">4847 Candidates</span></li>
+              <li><input type="checkbox" class="chk01">All <span class="cn07">8758 Candidates</span></li>
+            </ul>
+          </div>
+        </section>
+
+      </div>
+      <div class="col-lg-8">
+        <div class="row">
+          <div class="col-lg-5">
+            <input type="text" placeholder="Keywords e.g: Graphic Design" id="input1">
+          </div>
+          <div class="col-lg-5">
+            <input type="text" placeholder="Location: Any Location" id="input1">
+          </div>
+          <div class="col-lg-2">
+            <div class="btn1">
+              <a href="#">Search</a>
+            </div>
+          </div>
+          <div class="main">
+            <div class="chk">
+              <input type="checkbox" id="chk">
+              <label for="vehicle1" name="vehicle"> Full time</label>
+            </div>
+            <div class="chk">
+              <input type="checkbox" id="chk">
+              <label > Part time</label>
+            </div>
+            <div class="chk">
+              <input type="checkbox" id="chk">
+              <label for="vehicle1" name="vehicle"> Remote</label>
+            </div>
+            <div class="chk">
+              <input type="checkbox" id="chk">
+              <label for="vehicle1"> Outsorce</label>
+            </div>
+            <div class="chk">
+              <input type="checkbox" id="chk">
+              <label for="vehicle1"> Monthly</label>
+            </div>
+            <div class="chk">
+              <input type="checkbox" id="chk">
+              <label for="vehicle1"> Hourly</label>
+            </div>
+            </div>
+      <!--===Job part start===-->
+            <div class="information-bg">
+              <div class="row">
+                <div class="col-lg-1">
+                  <div class="img">
+                    <img src="images/faka.png" alt="faka">
+                  </div>
+                </div>
+                <div class="col-lg-4">
+                  <div class="heading">
+                    <div class="txt txt-01">
+                      <h5>Full Time</h5>
+                      <h2>Front-end & Back-end Developer</h2>
+                      <p>Creative IT Institute</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-2">
+                  <div class="location">
+                    <h4 class="lok1"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+                  </div>
+                </div>
+                <div class="col-lg-2">
+                  <div class="price price01">
+                    <h4>$100 - $300 / Month</h4>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="btn btn-01">
+                    <a href="#">Viwe Jobs</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+    <!--===Job part end===-->
+    <!--===Job part start===-->
+    <div class="information-bg">
+      <div class="row">
+        <div class="col-lg-1">
+          <div class="img">
+            <img src="images/faka.png" alt="faka">
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="heading">
+            <div class="txt txt-01">
+              <h5>Full Time</h5>
+              <h2>Front-end & Back-end Developer</h2>
+              <p>Creative IT Institute</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="location">
+            <h4 class="lok1"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="price price01">
+            <h4>$100 - $300 / Month</h4>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="btn btn-01">
+            <a href="#">Viwe Jobs</a>
+          </div>
+        </div>
+      </div>
+    </div>
+<!--===Job part end===-->
+<!--===Job part start===-->
+<div class="information-bg">
+  <div class="row">
+    <div class="col-lg-1">
+      <div class="img">
+        <img src="images/faka.png" alt="faka">
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="heading">
+        <div class="txt txt-01">
+          <h5>Full Time</h5>
+          <h2>Front-end & Back-end Developer</h2>
+          <p>Creative IT Institute</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="location">
+        <h4 class="lok1"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="price price01">
+        <h4>$100 - $300 / Month</h4>
+      </div>
+    </div>
+    <div class="col-lg-3">
+      <div class="btn btn-01">
+        <a href="#">Viwe Jobs</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===Job part end===-->
+<!--===Job part start===-->
+<div class="information-bg">
+  <div class="row">
+    <div class="col-lg-1">
+      <div class="img">
+        <img src="images/faka.png" alt="faka">
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="heading">
+        <div class="txt txt-01">
+          <h5>Full Time</h5>
+          <h2>Front-end & Back-end Developer</h2>
+          <p>Creative IT Institute</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="location">
+        <h4 class="lok1"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="price price01">
+        <h4>$100 - $300 / Month</h4>
+      </div>
+    </div>
+    <div class="col-lg-3">
+      <div class="btn btn-01">
+        <a href="#">Viwe Jobs</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===Job part end===-->
+<!--===Job part start===-->
+<div class="information-bg">
+  <div class="row">
+    <div class="col-lg-1">
+      <div class="img">
+        <img src="images/faka.png" alt="faka">
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="heading">
+        <div class="txt txt-01">
+          <h5>Full Time</h5>
+          <h2>Front-end & Back-end Developer</h2>
+          <p>Creative IT Institute</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="location">
+        <h4 class="lok1"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="price price01">
+        <h4>$100 - $300 / Month</h4>
+      </div>
+    </div>
+    <div class="col-lg-3">
+      <div class="btn btn-01">
+        <a href="#">Viwe Jobs</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===Job part end===-->
+<!--===Job part start===-->
+<div class="information-bg">
+  <div class="row">
+    <div class="col-lg-1">
+      <div class="img">
+        <img src="images/faka.png" alt="faka">
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="heading">
+        <div class="txt txt-01">
+          <h5>Full Time</h5>
+          <h2>Front-end & Back-end Developer</h2>
+          <p>Creative IT Institute</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="location">
+        <h4 class="lok1"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+      </div>
+    </div>
+    <div class="col-lg-2">
+      <div class="price price01">
+        <h4>$100 - $300 / Month</h4>
+      </div>
+    </div>
+    <div class="col-lg-3">
+      <div class="btn btn-01">
+        <a href="#">Viwe Jobs</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===Job part end===-->
+    <!--===Job part start===-->
+     <div class="information-bg">
+      <div class="row">
+        <div class="col-lg-1">
+          <div class="img">
+            <img src="images/faka.png" alt="faka">
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="heading">
+            <div class="txt txt-01">
+              <h5>Full Time</h5>
+              <h2>Back-end Developer</h2>
+              <p>Creative IT Institute</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="location">
+            <h4 class="lok"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="price price01">
+            <h4>$100 - $300 / Month</h4>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="btn btn-01">
+            <a href="#">Viwe Jobs</a>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <!--===Job part end===-->
+    <!--===Job part start===-->
+    <div class="information-bg">
+      <div class="row">
+        <div class="col-lg-1">
+          <div class="img">
+            <img src="images/faka.png" alt="faka">
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="heading">
+            <div class="txt txt-01">
+              <h5>Full Time</h5>
+              <h2>UI - UX Designer</h2>
+              <p>Creative IT Institute</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="location">
+            <h4 class="lok"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="price price01">
+            <h4>$100 - $300 / Month</h4>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="btn btn-01">
+            <a href="#">Viwe Jobs</a>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <!--===Job part end===-->
+    <!--===Job part start===-->
+    <div class="information-bg">
+      <div class="row">
+        <div class="col-lg-1">
+          <div class="img">
+            <img src="images/faka.png" alt="faka">
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="heading">
+            <div class="txt txt-01">
+              <h5>Full Time</h5>
+              <h2>Graphic Designer</h2>
+              <p>Creative IT Institute</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="location">
+            <h4 class="lok"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="price price01">
+            <h4>$100 - $300 / Month</h4>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="btn btn-01">
+            <a href="#">Viwe Jobs</a>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <!--===Job part end===-->
+    <!--===Job part start===-->
+    <div class="information-bg">
+      <div class="row">
+        <div class="col-lg-1">
+          <div class="img">
+            <img src="images/faka.png" alt="faka">
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="heading">
+            <div class="txt txt-01">
+              <h5>Full Time</h5>
+              <h2>Motion Graphics</h2>
+              <p>Creative IT Institute</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="location">
+            <h4 class="lok"><i class="fas fa-map-marker-alt"></i>  Los Angles</h4>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="price price01">
+            <h4>$100 - $300 / Month</h4>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="btn btn-01">
+            <a href="#">Viwe Jobs</a>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <!--===Job part end===-->
+    <div class="row">
+      <div class="col-lg-4">
+        <p class="left-site">
+          You have 21,023 jobs yet, Browse more...
+        </p>
+      </div>
+      <div class="col-lg-8">
+        <div class="btn01 btn001">
+          <h3>1</h3>
+          <h3>2</h3>
+          <h3>3</h3>
+          <h3>4</h3>
+          <h3>5</h3>
+        </div>
+      </div>
+    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--=====================================
+         Job part end
+=========================================-->
+<!--=====================================
+         Milestone part start
+=========================================-->
+<section id="milestone-part">
+  <div class="container">
+    <div class="title">
+      <h2>Our Milestone & Partners</h2>
+      <img src="images/line.png" alt="line">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="counter-part">
+          <div class="row">
+            <div class="col-lg-6">
+              <h2 class=""><span class="counter">220</span>+</h2>
+              <h3>MoU Compaines</h3>
+            </div>
+            <div class="col-lg-6">
+              <h2 class=""><span class="counter">1800</span>+</h2>
+              <h3>Employees Reeruit</h3>
+            </div>
+            <div class="col-lg-6">
+              <h2 class="mt20"><span class="counter">100</span>%</h2>
+              <h3>Satishfied Companies</h3>
+            </div>
+            <div class="col-lg-6">
+              <h2 class="mt20"><span class="counter">99</span>%</h2>
+              <h3>Satishfied Employees</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <div class="img-part">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="img">
+                <img src="images/milston1.png" alt="milston1">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="img">
+                <img src="images/milston2.png" alt="milston2">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="img">
+                <img src="images/milston3.png" alt="milston3">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="img">
+                <img src="images/milston4.png" alt="milston4">
+              </div>
+            </div>
+          </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--=====================================
+         Milestone part end
+=========================================-->
+<!--=====================================
+         Footer part start
+=========================================-->
+<footer>
+  <div class="footer-logo">
+    <img src="images/footer-logo.png" alt="footer">
+    <div class="line"></div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="title01">
+          <h2>About us</h2>
+          <img src="images/line.png" alt="line">
+        </div>
+        <div class="about-txt">
+          <p>
+            Lorem ipsum ut dolor sit amet, consectetur adipisicing elit, sed ut do eiusmod tempor ut incididunt ut labore dolore magna aliqua. En minim veniam, nostrud exercitation.
+          </p>
+          <div class="btn01">
+            <a href="#">Browse All Workers <i class="fas fa-long-arrow-alt-right"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-2">
+        <div class="title01">
+          <h2>For Employees</h2>
+          <img src="images/line.png" alt="line">
+        </div>
+        <ul>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Browse Jobs</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Dashboard</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#"> Resume Jobs</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Bookmarks</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Job Alerts</a>  
+          </li>
+        </ul>
+
+      </div>
+      <div class="col-lg-2">
+        <div class="title01">
+          <h2>For Canditates</h2>
+          <img src="images/line.png" alt="line">
+        </div>
+        <ul>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Browse Jobs</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Dashboard</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#"> Resume Jobs</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Bookmarks</a>  
+          </li>
+          <li>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <div class="dot none"></div>
+            <a href="#">Job Alerts</a>  
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="title01">
+          <h2>Subscribe For Newsleller</h2>
+          <img src="images/line.png" alt="line">
+        </div>
+        <p class="subs">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+        </p>
+        <input type="email" placeholder="Your e-mail here">
+        <div class="sub-btn">
+          <a href="#">Subscribe</a>
+        </div>
+        <div class="icon">
+          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-twitter"></i>
+          <i class="fab fa-behance"></i>
+          <i class="fab fa-linkedin-in"></i>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <p class="copyright1"><i class="fas fa-copyright"></i> Copyright 2019. All rights reserved by Designer.</p>
+</footer>
+
+
+<!--=====================================
+         Footer part end
+=========================================-->
+
+
+  <script src="js/jquery-1.12.4.min.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/slick.min.js"></script>
+  <script src="js/venobox.min.js"></script>
+  <script src="js/waypoints.min.js"></script>
+  <script src="Js/jquery.counterup.min.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+</html>
